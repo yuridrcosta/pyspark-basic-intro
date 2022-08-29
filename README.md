@@ -4,6 +4,20 @@ De acordo com a [documentação oficial](https://spark.apache.org/docs/latest/),
 
 Esse repositório apresenta (até o momento) uma introdução rápida ao **Spark SQL**, que é o módulo para trabalhar com dados estruturados. É um objetivo produzir uma introdução à outros módulos módulos, como **Spark Streaming** (que realiza o processamento em tempo real de fluxos de dados) e **MLlib** (que fornece vários algoritmos tradicionais de aprendizagem de máquina).
 
+# Tópicos cobertos
+
+- Spark SQL
+  - Leitura/escrita de arquivos
+    - Opções de leitura
+    - Modos de escrita
+  - Definição de schema
+  - Manipulação de DataFrames
+    - Visualização de DataFrames
+    - Criação/renomeamento/manipulação de colunas
+    - Filtragem
+    - Agrupamentos
+    - Ordenações
+
 # Conteúdo relevante
 
  - [PySpark Getting Started](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)

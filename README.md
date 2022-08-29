@@ -10,6 +10,7 @@ Esse repositório apresenta (até o momento) uma introdução rápida ao **Spark
   - Leitura/escrita de arquivos
     - Opções de leitura
     - Modos de escrita
+    - Leitura/escrita em bancos de dados
   - Definição de schema
   - Manipulação de DataFrames
     - Visualização de DataFrames
